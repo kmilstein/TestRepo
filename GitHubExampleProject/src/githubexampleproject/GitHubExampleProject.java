@@ -1,7 +1,6 @@
 package githubexampleproject;
 
 /**
- *
  * @author Ksenia
  */
 public class GitHubExampleProject {
